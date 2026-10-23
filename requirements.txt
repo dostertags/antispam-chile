@@ -1,0 +1,9 @@
+# no_molestar.py — dependencias (Python 3.12)
+openpyxl>=3.1
+playwright>=1.45
+# Después de instalar, descarga el navegador de Playwright:
+#   python -m playwright install chromium
+
+# Desarrollo / pruebas (opcional):
+# pytest>=8
+# pytest-cov>=5

@@ -1,0 +1,12 @@
+# Datos personales: nunca al repositorio
+config.toml
+salida/
+tracker_no_molestar_50_empresas.xlsx
+*.pendiente.xlsx
+~$*.xlsx
+
+# Python / pruebas
+__pycache__/
+.pytest_cache/
+.coverage
+.venv/

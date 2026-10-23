@@ -1,0 +1,30 @@
+Asunto: Oposición al uso de mis datos personales con fines publicitarios y solicitud de eliminación – {nombre}
+
+Señores
+{empresa}
+Presente
+
+De mi consideración:
+
+Mi nombre es {nombre}, RUT {rut}. En mi calidad de titular de los datos personales que {empresa} mantiene en sus registros, por medio de la presente ejerzo mi derecho de OPOSICIÓN al tratamiento de mis datos personales con fines de publicidad, marketing, prospección comercial o venta directa, ya sea que lo realice directamente o a través de terceros que actúen por su cuenta.
+
+En consecuencia, solicito:
+
+1. La ELIMINACIÓN o, en su defecto, el BLOQUEO de mis datos personales (entre ellos, mi nombre, RUT, el teléfono {telefono} y el correo electrónico {correo}) en todas las bases de datos que utilicen para enviar comunicaciones comerciales o publicitarias.
+
+2. El cese inmediato de TODAS las comunicaciones promocionales o publicitarias dirigidas a mí por cualquier medio, incluidas llamadas telefónicas, SMS, mensajes de WhatsApp y correos electrónicos, al teléfono {telefono} y al correo {correo}, sean enviadas por {empresa} o por terceros (call centers, agencias u otros) en su nombre.
+
+3. Que se abstengan de comunicar o ceder mis datos personales a terceros con esos fines.
+
+Fundo esta solicitud en el artículo 12 de la Ley N° 19.628, sobre Protección de la Vida Privada, que reconoce al titular el derecho a exigir la eliminación o el bloqueo de sus datos cuando se utilizan para comunicaciones comerciales que no desea recibir, y en el artículo 28 B de la Ley N° 19.496, sobre Protección de los Derechos de los Consumidores, que permite al consumidor solicitar la suspensión de las comunicaciones promocionales o publicitarias.
+
+Esta solicitud no comprende las comunicaciones estrictamente necesarias para la ejecución de un contrato vigente, si lo hubiera.
+
+Les ruego confirmar por escrito, respondiendo a este correo, que han dado curso a lo solicitado, dentro del plazo de dos días hábiles que establece el artículo 16 de la Ley N° 19.628.
+
+Atentamente,
+
+{nombre}
+RUT {rut}
+{correo}
+{fecha}

@@ -1,0 +1,27 @@
+# config.example.toml — copia este archivo como config.toml y pon TUS datos.
+#   PowerShell:  Copy-Item config.example.toml config.toml
+#
+# NO pongas contraseñas aquí. La ClaveÚnica y la contraseña de aplicación de Gmail
+# se piden al ejecutar (sin mostrarse en pantalla) y nunca se guardan.
+# Si agregas una clave como "clave" o "password", el script la ignora y avisa.
+#
+# Los datos de abajo son FICTICIOS (pero con formato válido): reemplázalos.
+
+[persona]
+# Tu nombre completo, tal como quieres que aparezca en los correos.
+nombre = "María José Pérez Soto"
+
+# Tu RUT, con o sin puntos y guion (se valida el dígito verificador).
+# Es el RUN con que entras a ClaveÚnica.
+rut = "11.111.111-1"
+
+# Teléfono que quieres bloquear (móvil o fijo chileno; cualquier formato).
+telefono = "+56 9 1234 5678"
+
+# Correo que quieres bloquear en el SERNAC; también va como "responder a" en los correos.
+correo = "maria.perez@example.cl"
+
+# Opcional: la cuenta Gmail desde la que se envían los correos, si NO es la de arriba.
+# Si no la indicas, se usa el correo de [persona].
+# [gmail]
+# usuario = "maria.perez.optout@gmail.com"
